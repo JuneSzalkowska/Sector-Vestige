@@ -1,0 +1,141 @@
+- type: species
+  id: Deepborn
+  name: species-name-deepborn
+  roundStart: true
+  prototype: MobDeepborn
+  sprites: MobDeepbornSprites
+  defaultSkinTone: "#FFFFFF"
+  markingLimits: MobDeepbornMarkingLimits
+  dollPrototype: MobDeepbornDummy
+  skinColoration: Hues
+  defaultHeight: 1.1
+
+- type: speciesBaseSprites
+  id: MobDeepbornSprites
+  sprites:
+    Head: MobDeepbornHead
+    Hair: MobHumanoidAnyMarking
+    FacialHair: MobHumanoidAnyMarking
+    HeadTop: MobHumanoidAnyMarking
+    HeadSide: MobHumanoidAnyMarking
+    UndergarmentTop: MobHumanoidAnyMarking
+    UndergarmentBottom: MobHumanoidAnyMarking
+    Chest: MobDeepbornTorso
+    Eyes: MobHumanoidEyes
+    LArm: MobDeepbornLArm
+    RArm: MobDeepbornRArm
+    LHand: MobDeepbornLHand
+    RHand: MobDeepbornRHand
+    LLeg: MobDeepbornLLeg
+    RLeg: MobDeepbornRLeg
+    LFoot: MobDeepbornLFoot
+    RFoot: MobDeepbornRFoot
+
+- type: markingPoints
+  id: MobDeepbornMarkingLimits
+  points:
+    Hair:
+      points: 1
+      required: false
+    FacialHair:
+      points: 0
+      required: false
+    HeadTop:
+      points: 2
+      required: false
+    HeadSide:
+      points: 1
+      required: false
+    Chest:
+      points: 3
+      required: false
+    Legs:
+      points: 4
+      required: false
+    Arms:
+      points: 4
+      required: false
+
+- type: humanoidBaseSprite
+  id: MobDeepbornHead
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobDeepbornHeadMale
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: head_m
+
+- type: humanoidBaseSprite
+  id: MobDeepbornHeadFemale
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: head_f
+
+- type: humanoidBaseSprite
+  id: MobDeepbornTorso
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobDeepbornTorsoMale
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: torso_m
+
+- type: humanoidBaseSprite
+  id: MobDeepbornTorsoFemale
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: torso_f
+
+- type: humanoidBaseSprite
+  id: MobDeepbornLLeg
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: l_leg
+
+- type: humanoidBaseSprite
+  id: MobDeepbornLArm
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: l_arm
+
+- type: humanoidBaseSprite
+  id: MobDeepbornLHand
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: l_hand
+
+- type: humanoidBaseSprite
+  id: MobDeepbornLFoot
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: l_foot
+
+- type: humanoidBaseSprite
+  id: MobDeepbornRLeg
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: r_leg
+
+- type: humanoidBaseSprite
+  id: MobDeepbornRArm
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: r_arm
+
+- type: humanoidBaseSprite
+  id: MobDeepbornRHand
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: r_hand
+
+- type: humanoidBaseSprite
+  id: MobDeepbornRFoot
+  baseSprite:
+    sprite: _SV/Mobs/Species/Seafolk/parts.rsi
+    state: r_foot

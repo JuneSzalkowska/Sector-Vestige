@@ -1,3 +1,3 @@
-## Species Names
+# Species Names
 
-SV-species-name-seafolk = seafolk
+species-name-seafolk = seafolk
