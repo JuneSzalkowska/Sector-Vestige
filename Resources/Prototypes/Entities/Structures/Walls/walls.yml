@@ -982,13 +982,13 @@
   name: solid wall
   components:
   - type: Sprite
-    sprite: Structures/Walls/solid.rsi
+    sprite: _SV/Structures/Walls/solid.rsi #Changed the sprite from /Structures/Walls/solid.rsi -June
   - type: WallReplacementMarker
   - type: Construction
     graph: Girder
     node: wall
   - type: Icon
-    sprite: Structures/Walls/solid.rsi
+    sprite: _SV/Structures/Walls/solid.rsi #Changed the sprite from /Structures/Walls/solid.rsi -June
   - type: RCDDeconstructable
     cost: 6
     delay: 8
