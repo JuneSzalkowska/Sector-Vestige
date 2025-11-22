@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "A.",
+  "copyright": "Made by JuneSzalkowska, NOT TO BE CONFUSED WITH YUNE SZALKOWSKA, MY EVIL TWIN.",
   "size": {
     "x": 32,
     "y": 32
@@ -16,6 +16,10 @@
       "directions": 4
     },
     {
+      "name": "eyes_three",
+      "directions": 4
+    },
+    {
       "name": "face_lower",
       "directions": 4
     },
@@ -25,6 +29,10 @@
     },
     {
       "name": "horns_leviathan",
+      "directions": 4
+    },
+    {
+      "name": "horns_lobster",
       "directions": 4
     },
     {
@@ -41,6 +49,14 @@
     },
     {
       "name": "frills_seabunny",
+      "directions": 4
+    },
+    {
+      "name": "frills_leafyseadragon",
+      "directions": 4
+    },
+    {
+      "name": "frills_vampire",
       "directions": 4
     },
     {

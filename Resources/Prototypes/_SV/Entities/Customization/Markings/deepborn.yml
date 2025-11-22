@@ -36,6 +36,15 @@
     state: eyes_four
 
 - type: marking
+  id: DeepbornEyesThree
+  bodyPart: Head
+  markingCategory: Head
+  speciesRestriction: [Deepborn]
+  sprites:
+  - sprite: _SV/Mobs/Customization/Markings/deepborn_parts.rsi
+    state: eyes_three
+
+- type: marking
   id: DeepbornHornsLeviathan
   bodyPart: HeadTop
   markingCategory: HeadTop
@@ -63,6 +72,15 @@
     state: horns_bigforehead
 
 - type: marking
+  id: DeepbornHornLobster
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [Deepborn]
+  sprites:
+  - sprite: _SV/Mobs/Customization/Markings/deepborn_parts.rsi
+    state: horns_lobster
+
+- type: marking
   id: DeepbornFrillsFlowery
   bodyPart: HeadSide
   markingCategory: HeadSide
@@ -70,6 +88,15 @@
   sprites:
   - sprite: _SV/Mobs/Customization/Markings/deepborn_parts.rsi
     state: frills_flowery
+
+- type: marking
+  id: DeepbornFrillsVampire
+  bodyPart: HeadSide
+  markingCategory: HeadSide
+  speciesRestriction: [Deepborn]
+  sprites:
+  - sprite: _SV/Mobs/Customization/Markings/deepborn_parts.rsi
+    state: frills_vampire
 
 - type: marking
   id: DeepbornFrillsLeafySeadragon
