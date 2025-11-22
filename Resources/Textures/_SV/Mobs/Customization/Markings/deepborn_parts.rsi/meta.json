@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Made by JuneSzalkowska, NOT TO BE CONFUSED WITH YUNE SZALKOWSKA, MY EVIL TWIN.",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "eyes_big",
+      "directions": 4
+    },
+    {
+      "name": "eyes_four",
+      "directions": 4
+    },
+    {
+      "name": "eyes_three",
+      "directions": 4
+    },
+    {
+      "name": "face_lower",
+      "directions": 4
+    },
+    {
+      "name": "face_upper",
+      "directions": 4
+    },
+    {
+      "name": "horns_leviathan",
+      "directions": 4
+    },
+    {
+      "name": "horns_lobster",
+      "directions": 4
+    },
+    {
+      "name": "horns_upward",
+      "directions": 4
+    },
+    {
+      "name": "horns_bigforehead",
+      "directions": 4
+    },
+    {
+      "name": "frills_flowery",
+      "directions": 4
+    },
+    {
+      "name": "frills_seabunny",
+      "directions": 4
+    },
+    {
+      "name": "frills_leafyseadragon",
+      "directions": 4
+    },
+    {
+      "name": "frills_vampire",
+      "directions": 4
+    },
+    {
+      "name": "body_underbelly",
+      "directions": 4
+    },
+    {
+      "name": "body_tinyspots",
+      "directions": 4
+    },
+    {
+      "name": "body_stripped",
+      "directions": 4
+    },
+    {
+      "name": "body_ghost",
+      "directions": 4
+    },
+    {
+      "name": "body_skele",
+      "directions": 4
+    },
+    {
+      "name": "r_arm_skele",
+      "directions": 4
+    },
+    {
+      "name": "l_arm_skele",
+      "directions": 4
+    }
+  ]
+}
