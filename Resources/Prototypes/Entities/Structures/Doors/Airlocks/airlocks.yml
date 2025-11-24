@@ -120,7 +120,7 @@
   name: maintenance access
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/maint.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/maint.rsi #changed by Sector-Vestige
 
 - type: entity
   parent: AirlockSecurity # if you get syndie door somehow it counts as sec
