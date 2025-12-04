@@ -1067,3 +1067,73 @@ Entries:
       message: hazardous copyrighted material relating to cats
   id: 144
   time: '2025-11-20T19:32:15.0000000+00:00'
+- author: JuneSzalkowska
+  changes:
+    - type: Add
+      message: Added a new winterjacket (Salvage Mining Jacket)
+    - type: Add
+      message: Added 5 new labcoats (basic, science, chemistry, RD, CMO)
+    - type: Add
+      message: Added 2 new tricorn hats (Captain, Quartermaster)
+    - type: Tweak
+      message: Added the new outfits to the loadouts
+    - type: Remove
+      message: Removed all Modern Labcoats from loadouts
+  id: 145
+  time: '2025-11-22T15:13:21.0000000+00:00'
+- author: purpleskittleo
+  changes:
+    - type: Add
+      message: Added "Incognito (NIGHTMARE Stinger Ver.)"
+    - type: Add
+      message: Added "Silksilver (Stinger Ver.)"
+    - type: Tweak
+      message: Fixed a bunch of ambiences not fading out properly.
+  id: 146
+  time: '2025-11-22T17:04:07.0000000+00:00'
+- author: OnyxTheBrave
+  changes:
+    - type: Fix
+      message: High-cut labcoats no longer show up as 'item' in loadouts.
+  id: 147
+  time: '2025-11-23T09:25:20.0000000+00:00'
+- author: OnyxTheBrave
+  changes:
+    - type: Add
+      message: RPD can now be bought from cargo.
+    - type: Add
+      message: RPD now spawns in the CE's locker roundstart
+  id: 148
+  time: '2025-11-23T10:56:52.0000000+00:00'
+- author: Mixmaster49
+  changes:
+    - type: Add
+      message: Riyada personal item
+  id: 149
+  time: '2025-11-24T14:06:16.0000000+00:00'
+- author: TheNarwhalrus
+  changes:
+    - type: Add
+      message: cracked sunglasses item
+  id: 150
+  time: '2025-11-27T18:26:41.0000000+00:00'
+- author: JuneSzalkowska
+  changes:
+    - type: Add
+      message: Added a New Andalusian High Noble Outfit
+  id: 151
+  time: '2025-11-30T15:09:03.0000000+00:00'
+- author: OnyxTheBrave
+  changes:
+    - type: Fix
+      message: Nanochat now works again.
+  id: 152
+  time: '2025-12-02T18:06:38.0000000+00:00'
+- author: OnyxTheBrave
+  changes:
+    - type: Fix
+      message: RPD can now deconstruct pipes again.
+    - type: Tweak
+      message: RPD takes 1 second to deconstruct radiators.
+  id: 153
+  time: '2025-12-02T19:35:55.0000000+00:00'

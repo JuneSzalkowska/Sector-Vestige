@@ -39,6 +39,7 @@
   - FormalShoes # CD Change
   - Survival
   - Trinkets
+  - CaptainJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -55,6 +56,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - HoPJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -85,6 +87,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - PassengerJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -100,6 +103,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - BartenderJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -113,6 +117,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - ServiceWorkerJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -128,6 +133,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - ChefJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -141,6 +147,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - LibrarianJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -155,6 +162,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - LawyerJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -172,6 +180,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - ChaplainJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -187,7 +196,7 @@
   - Glasses
   - Survival
   - Trinkets
-  - JanitorPlunger
+  - JanitorJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -202,6 +211,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - BotanistJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -219,6 +229,7 @@
   - SurvivalClown
   - Trinkets
   - PersonalItemsJobAgnostic #SV Change
+  - ClownJobTrinkets
 
 - type: roleLoadout
   id: JobMime
@@ -235,9 +246,11 @@
   - SurvivalMime
   - Trinkets
   - PersonalItemsJobAgnostic #SV Change
+  - MimeJobTrinkets
 
 - type: roleLoadout
   id: JobMusician
+  canCustomizeName: true
   groups:
   - GroupTankHarness
   - MusicianJumpsuit
@@ -247,6 +260,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - MusicianJobTrinkets
   - Instruments
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
@@ -265,6 +279,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - QuartermasterJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -281,6 +296,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - CargoTechnicianJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -295,6 +311,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - SalvageSpecialistJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -312,6 +329,7 @@
   - ChiefEngineerShoes
   - SurvivalExtended
   - Trinkets
+  - ChiefEngineerJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -323,6 +341,7 @@
   - StationEngineerBackpack
   - SurvivalExtended
   - Trinkets
+  - TechnicalAssistantJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -339,6 +358,7 @@
   - StationEngineerID
   - SurvivalExtended
   - Trinkets
+  - StationEngineerJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -353,6 +373,7 @@
   - AtmosphericTechnicianShoes
   - SurvivalExtended
   - Trinkets
+  - AtmosphericTechnicianJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -371,6 +392,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - ResearchDirectorJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -389,6 +411,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - ScientistJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -401,6 +424,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - ResearchAssistantJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -418,7 +442,7 @@
   - SecurityGlassesOrHud # CD Addition
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+  - HeadofSecurityJobTrinkets
   - GroupSpeciesBreathToolSecurity
   - PersonalItemsJobAgnostic #SV Change
 
@@ -434,7 +458,7 @@
   - SecurityGlassesOrHud # CD Addition
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+  - WardenJobTrinkets
   - GroupSpeciesBreathToolSecurity
   - PersonalItemsJobAgnostic #SV Change
 
@@ -451,7 +475,7 @@
   - SecurityGlassesOrHud # CD Addition
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+  - SecurityJobTrinkets
   - GroupSpeciesBreathToolSecurity
   - PersonalItemsJobAgnostic #SV Change
 
@@ -467,7 +491,7 @@
   - SecurityGlassesOrHud # CD Addition
   - SurvivalSecurity
   - Trinkets
-  - SecurityStar
+  - DetectiveJobTrinkets
   - GroupSpeciesBreathToolSecurity
   - PersonalItemsJobAgnostic #SV Change
 
@@ -479,6 +503,7 @@
   - SecurityGlassesOrHud # CD Addition
   - SurvivalSecurity
   - Trinkets
+  - SecurityCadetJobTrinkets
   - GroupSpeciesBreathToolSecurity
   - PersonalItemsJobAgnostic #SV Change
 
@@ -498,6 +523,7 @@
   - MedicalEyewear
   - SurvivalMedical
   - Trinkets
+  - ChiefMedicalOfficerJobTrinkets
   - GroupSpeciesBreathToolMedical
   - PersonalItemsJobAgnostic #SV Change
 
@@ -516,6 +542,7 @@
   - MedicalEyewear
   - SurvivalMedical
   - Trinkets
+  - MedicalDoctorJobTrinkets
   - GroupSpeciesBreathToolMedical
   - PersonalItemsJobAgnostic #SV Change
 
@@ -528,6 +555,7 @@
   - MedicalEyewear
   - SurvivalMedical
   - Trinkets
+  - MedicalInternJobTrinkets
   - GroupSpeciesBreathToolMedical
   - PersonalItemsJobAgnostic #SV Change
 
@@ -543,6 +571,7 @@
   - MedicalShoes
   - SurvivalMedical
   - Trinkets
+  - ChemistJobTrinkets
   - GroupSpeciesBreathToolMedical
   - PersonalItemsJobAgnostic #SV Change
 
@@ -563,6 +592,7 @@
   - MedicalEyewear
   - SurvivalMedical
   - Trinkets
+  - ParamedicJobTrinkets
   - GroupSpeciesBreathToolMedical
   - PersonalItemsJobAgnostic #SV Change
 
@@ -575,6 +605,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - ZookeeperJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -587,6 +618,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - ReporterJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -600,6 +632,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - PsychologistJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 
@@ -613,6 +646,7 @@
   - Glasses
   - Survival
   - Trinkets
+  - BoxerJobTrinkets
   - GroupSpeciesBreathTool
   - PersonalItemsJobAgnostic #SV Change
 

@@ -66,6 +66,16 @@
 
 - type: entity
   parent: SprayPainter
+  name: experimental spray painter
+  description: An experimental recharging spray painter that can infinitely replicate compressed paint.
+  id: SprayPainterBorg
+  suffix: Borg
+  components:
+  - type: AutoRecharge
+    rechargeDuration: 5
+
+- type: entity
+  parent: SprayPainter
   id: SprayPainterEmpty
   suffix: Empty
   components:
@@ -92,7 +102,7 @@
       Plastic: 10
   - type: StaticPrice
     price: 30
-  - type: Food # SV addition (start)
+  - type: Edible # SV addition (start)
   - type: FlavorProfile
     flavors:
       - metallic # lead
