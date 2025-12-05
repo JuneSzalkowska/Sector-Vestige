@@ -63,7 +63,7 @@
   suffix: Engineering
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/engineering.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/engineering.rsi #changed by Sector-Vestige
   - type: Wires
     layoutId: AirlockEngineering
 
@@ -73,7 +73,7 @@
   suffix: Atmospherics
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/atmospherics.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/atmos.rsi #changed by Sector-Vestige
 
 - type: entity
   parent: Airlock
@@ -111,7 +111,7 @@
   suffix: Medical
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/medical.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/medical.rsi #changed by Sector-Vestige
   - type: Wires
     layoutId: AirlockMedical
 
@@ -129,7 +129,7 @@
   suffix: Chemistry
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/chemistry.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/chemistry.rsi #changed by Sector-Vestige
 
 - type: entity
   parent: Airlock
@@ -137,7 +137,7 @@
   suffix: Science
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/science.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/science.rsi #changed by Sector-Vestige
   - type: Wires
     layoutId: AirlockScience
 
@@ -159,7 +159,7 @@
   suffix: Security
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/security.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/sec.rsi #changed by Sector-Vestige
   - type: Wires
     layoutId: AirlockSecurity
 
