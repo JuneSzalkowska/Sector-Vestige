@@ -1,0 +1,11 @@
+- type: localizedDataset
+  id: NamesDeepbornFirst
+  values:
+    prefix: names-deepborn-first-dataset-
+    count: 37
+
+- type: localizedDataset
+  id: NamesDeepbornLast
+  values:
+    prefix: names-deepborn-last-dataset-
+    count: 52

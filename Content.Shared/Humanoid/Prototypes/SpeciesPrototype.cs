@@ -167,4 +167,5 @@ public enum SpeciesNaming : byte
     FirstDashFirst,
     TheFirstofLast,
     LastFirst, // CD addition
+    FirstTheLast, // SV addition
 }
