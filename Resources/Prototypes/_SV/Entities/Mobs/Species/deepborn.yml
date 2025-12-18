@@ -70,14 +70,13 @@
   - type: Speech
     speechVerb: Slime
     speechSounds: Slime
-    allowedEmotes: ['Squish']
   - type: TypingIndicator
     proto: slime
   - type: Vocal
     sounds:
-      Male: MaleSlime
+      Male: FemaleSlime
       Female: FemaleSlime
-      Unsexed: MaleSlime
+      Unsexed: FemaleSlime
   - type: Damageable
     damageContainer: Biological
     damageModifierSet: Slime
