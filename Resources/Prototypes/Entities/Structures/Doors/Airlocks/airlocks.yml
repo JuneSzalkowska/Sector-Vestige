@@ -53,7 +53,7 @@
   suffix: Freezer
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/freezer.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/freezer.rsi #changed by Sector-Vestige
   - type: Wires
     layoutId: AirlockService
 
@@ -101,7 +101,7 @@
   suffix: Hydroponics
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/hydroponics.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/hydro.rsi #changed by Sector-Vestige
   - type: Wires
     layoutId: AirlockService
 
@@ -121,7 +121,7 @@
   suffix: Virology
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/virology.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/viro.rsi #changed by Sector-Vestige
 
 - type: entity
   parent: AirlockMedical
@@ -147,7 +147,7 @@
   suffix: Command
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/command.rsi
+    sprite: _/SV/Structures/Doors/Airlocks/Standard/command.rsi ##changed by Sector-Vestige
   - type: WiresPanelSecurity
     securityLevel: medSecurity
   - type: Wires
@@ -197,7 +197,7 @@
   suffix: Central Command
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/centcomm.rsi
+    sprite: /_SV/Structures/Doors/Airlocks/Standard/centcomm.rsi #changed by Sector-Vestige
 
 - type: entity
   parent: Airlock
@@ -385,7 +385,7 @@
   suffix: Service
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Glass/basic.rsi
+    sprite: _/SV/Structures/Doors/Airlocks/Glass/basic.rsi
 
 - type: entity
   parent: Airlock
