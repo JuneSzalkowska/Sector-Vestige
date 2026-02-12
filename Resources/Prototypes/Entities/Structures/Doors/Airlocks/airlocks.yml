@@ -81,7 +81,7 @@
   suffix: Cargo
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/cargo.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/cargo.rsi #changed by Sector-Vestige
   - type: Wires
     layoutId: AirlockCargo
 
@@ -91,7 +91,7 @@
   suffix: Salvage
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Standard/salvage.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Standard/salvage.rsi #changed by Sector-Vestige
   - type: Wires
     layoutId: AirlockCargo
 
@@ -147,7 +147,7 @@
   suffix: Command
   components:
   - type: Sprite
-    sprite: _/SV/Structures/Doors/Airlocks/Standard/command.rsi ##changed by Sector-Vestige
+    sprite: _SV/Structures/Doors/Airlocks/Standard/command.rsi #changed by Sector-Vestige
   - type: WiresPanelSecurity
     securityLevel: medSecurity
   - type: Wires
@@ -197,7 +197,7 @@
   suffix: Central Command
   components:
   - type: Sprite
-    sprite: /_SV/Structures/Doors/Airlocks/Standard/centcomm.rsi #changed by Sector-Vestige
+    sprite: _SV/Structures/Doors/Airlocks/Standard/centcomm.rsi #changed by Sector-Vestige
 
 - type: entity
   parent: Airlock
@@ -245,7 +245,7 @@
   suffix: Engineering
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Glass/engineering.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Glass/engineering.rsi #changed by Sector-Vestige
   - type: Wires
     layoutId: AirlockEngineering
 
@@ -255,7 +255,7 @@
   suffix: Maintenance
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Glass/maint.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Glass/maint.rsi #changed by Sector-Vestige
 
 - type: entity
   parent: AirlockEngineeringGlass
@@ -263,7 +263,7 @@
   suffix: Atmospherics
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Glass/atmospherics.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Glass/atmospherics.rsi  #changed by Sector-Vestige
 
 - type: entity
   parent: AirlockGlass
@@ -337,7 +337,7 @@
   suffix: Command
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Glass/command.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Glass/command.rsi #Changed by Sector Vestige
   - type: WiresPanelSecurity
     securityLevel: medSecurity
   - type: Wires
