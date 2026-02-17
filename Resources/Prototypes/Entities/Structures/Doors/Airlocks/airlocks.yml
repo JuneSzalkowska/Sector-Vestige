@@ -263,7 +263,7 @@
   suffix: Atmospherics
   components:
   - type: Sprite
-    sprite: _SV/Structures/Doors/Airlocks/Glass/atmospherics.rsi  #changed by Sector-Vestige
+    sprite: _SV/Structures/Doors/Airlocks/Glass/atmos.rsi  #changed by Sector-Vestige
 
 - type: entity
   parent: AirlockGlass
