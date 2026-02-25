@@ -1,3 +1,89 @@
+# SPDX-FileCopyrightText: 2026 Wizards Den contributors
+# SPDX-FileCopyrightText: 2026 Sector Vestige contributors (modifications)
+# SPDX-FileCopyrightText: 2020 AJCM-git <60196617+AJCM-git@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 DrSmugleaf <DrSmugleaf@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2020 Exp <theexp111@gmail.com>
+# SPDX-FileCopyrightText: 2020 Pieter-Jan Briers <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2020 Ygg01 <daniel.fath7@gmail.com>
+# SPDX-FileCopyrightText: 2020 py01 <pyronetics01@gmail.com>
+# SPDX-FileCopyrightText: 2021 Galactic Chimp <GalacticChimpanzee@gmail.com>
+# SPDX-FileCopyrightText: 2021 Swept <sweptwastaken@protonmail.com>
+# SPDX-FileCopyrightText: 2021 Tarlan2 <76408146+Tarlan2@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Alex Evgrashin <aevgrashin@yandex.ru>
+# SPDX-FileCopyrightText: 2022 Cheackraze <71046427+Cheackraze@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 FunkySphere <89979928+FunkySphere@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Leon Friedrich <60421075+ElectroJr@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Moony <moonheart08@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Paul Ritter <ritter.paul1@googlemail.com>
+# SPDX-FileCopyrightText: 2022 Peptide90 <78795277+Peptide90@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Ripmorld <60119809+UKNOWH@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 ShadowCommander <10494922+ShadowCommander@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 T-Stalker <43253663+DogZeroX@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 TaralGit <76408146+TaralGit@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 Visne <39844191+Visne@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 ZeroDayDaemon <60460608+ZeroDayDaemon@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2022 and_a <and_a@DESKTOP-RJENGIR>
+# SPDX-FileCopyrightText: 2022 metalgearsloth <comedian_vs_clown@hotmail.com>
+# SPDX-FileCopyrightText: 2023 Chief-Engineer <119664036+Chief-Engineer@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 CrigCrag <137215465+CrigCrag@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Emisse <99158783+Emisse@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Stanislav4ix <124695665+Stanislav4ix@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 Whisper <121047731+QuietlyWhisper@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 brainfood1183 <113240905+brainfood1183@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 crazybrain23 <44417085+crazybrain23@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 lzk <124214523+lzk228@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2023 metalgearsloth <31366439+metalgearsloth@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Alzore <140123969+Blackern5000@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Boaz1111 <149967078+Boaz1111@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 BuildTools <unconfigured@null.spigotmc.org>
+# SPDX-FileCopyrightText: 2024 Dae <60460608+ZeroDayDaemon@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Ed <96445749+TheShuEd@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Errant <35878406+Errant-4@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 IProduceWidgets <107586145+IProduceWidgets@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Ian <ignaz.k@live.de>
+# SPDX-FileCopyrightText: 2024 Kara <lunarautomaton6@gmail.com>
+# SPDX-FileCopyrightText: 2024 Nairod <110078045+Nairodian@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Nemanja <98561806+EmoGarbage404@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Plykiya <58439124+Plykiya@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Psychpsyo <60073468+Psychpsyo@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 RiceMar1244 <138547931+RiceMar1244@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 SonicHDC <100022571+SonicHDC@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 Zadeon <loldude9000@gmail.com>
+# SPDX-FileCopyrightText: 2024 degradka <69397649+degradka@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2024 vanx <61917534+Vaaankas@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Andrew Malcolm O'Neill <105134723+maland1@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 ArtisticRoomba <145879011+ArtisticRoomba@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 August Sun <45527070+august-sun@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 BramvanZijp <56019239+BramvanZijp@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Ermucat <NCramey09@gmail.com>
+# SPDX-FileCopyrightText: 2025 GaussiArson <193122004+GaussiArson@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Ignaz "Ian" Kraft <ignaz.k@live.de>
+# SPDX-FileCopyrightText: 2025 JackRyd3r <80720525+JackRyd3r@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 JacobThayil <jtha821@aucklanduni.ac.nz>
+# SPDX-FileCopyrightText: 2025 K-Dynamic <20566341+K-Dynamic@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Kirus59 <145689588+Kirus59@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 Nox <nebulousnox38@gmail.com>
+# SPDX-FileCopyrightText: 2025 PJB3005 <pieterjan.briers+git@gmail.com>
+# SPDX-FileCopyrightText: 2025 Princess Cheeseballs <66055347+Princess-Cheeseballs@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 ReboundQ3 <ReboundQ3@gmail.com>
+# SPDX-FileCopyrightText: 2025 Samuka-C <47865393+Samuka-C@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 ScarKy0 <106310278+ScarKy0@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 SlamBamActionman <83650252+SlamBamActionman@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 SnappingOpossum <snappingopossum@outlook.com>
+# SPDX-FileCopyrightText: 2025 Spanky <180730777+spanky-spanky@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 SyaoranFox <99053675+SyaoranFox@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 ToastEnjoyer <masondoesgamingyes@gmail.com>
+# SPDX-FileCopyrightText: 2025 Vasilis The Pikachu <vasilis@pikachu.systems>
+# SPDX-FileCopyrightText: 2025 august-sun <45527070+august.sun@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 chromiumboy <50505512+chromiumboy@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 keronshb <54602815+keronshb@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2025 slarticodefast <161409025+slarticodefast@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2026 ReboundQ3 <22770594+ReboundQ3@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2026 Zamshi8 <235235723+Zamshi8@users.noreply.github.com>
+# SPDX-FileCopyrightText: 2026 qu4drivium <aaronholiver@outlook.com>
+#
+# SPDX-License-Identifier: MIT
+
 - type: entity
   id: BaseWeaponBattery
   parent: BaseItem
@@ -25,6 +111,17 @@
     startingCharge: 1000
   - type: StaticPrice
     price: 500
+#Goob - Begin: pickup and drop sounds
+  - type: EmitSoundOnPickup
+    sound:
+      collection: LasersPickUp
+  - type: EmitSoundOnDrop
+    sound:
+      collection: LasersDrop
+  - type: EmitSoundOnLand
+    sound:
+      collection: LasersDrop
+#Goob - End: pickup and drop sounds
 
 - type: entity
   parent: [BaseWeaponBattery, BaseGunWieldable]
@@ -52,11 +149,14 @@
     selectedMode: SemiAuto
     availableModes:
     - SemiAuto
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: RedLaser
     fireCost: 62.5
   - type: StaticPrice
     price: 420
+  - type: Tag
+    tags:
+    - LaserWeapon
 
 - type: entity
   id: BaseWeaponPowerCell
@@ -74,7 +174,7 @@
     - SemiAuto
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser.ogg
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: RedLightLaser
     fireCost: 50
   - type: ItemSlots
@@ -157,6 +257,10 @@
     magState: mag
     steps: 5
     zeroVisible: true
+  - type: Tag
+    tags:
+    - Sidearm
+    - LaserWeapon
 
 - type: entity
   name: retro laser blaster
@@ -174,7 +278,7 @@
       shader: unshaded
   - type: Item
     storedOffset: 0,-5
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: RedMediumLaser
     fireCost: 62.5
   - type: MagazineVisuals
@@ -182,6 +286,10 @@
     steps: 5
     zeroVisible: true
   - type: Appearance
+  - type: Tag
+    tags:
+    - Sidearm
+    - LaserWeapon
 
 - type: entity
   name: makeshift laser pistol
@@ -206,12 +314,16 @@
   - type: Appearance
   - type: Clothing
     sprite: Objects/Weapons/Guns/Battery/makeshift.rsi
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: RedLaser
     fireCost: 62.5
   - type: Battery
     maxCharge: 500
     startingCharge: 500
+  - type: Tag
+    tags:
+    - Sidearm
+    - LaserWeapon
 
 - type: entity
   name: tesla gun
@@ -237,7 +349,7 @@
       path: /Audio/Effects/Lightning/lightningshock.ogg
       params:
         variation: 0.2
-  - type: ProjectileBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: TeslaGunBullet
     fireCost: 300
   - type: MagazineVisuals
@@ -260,7 +372,7 @@
   components:
   - type: StaticPrice
     price: 300
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: RedLaserPractice
     fireCost: 62.5
   - type: PacifismAllowedGun
@@ -294,12 +406,16 @@
     - SemiAuto
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser3.ogg
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: Pulse
     fireCost: 200
   - type: Battery
     maxCharge: 2000
     startingCharge: 2000
+  - type: Tag
+    tags:
+    - Sidearm
+    - LaserWeapon
 
 - type: entity
   name: pulse carbine
@@ -332,7 +448,7 @@
       - FullAuto
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser3.ogg
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: Pulse
     fireCost: 200
   - type: Battery
@@ -368,7 +484,7 @@
     fireRate: 1.5
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser3.ogg
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: Pulse
     fireCost: 100
   - type: Battery
@@ -404,7 +520,7 @@
     fireRate: 1.5
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser_cannon.ogg
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: RedHeavyLaser
     fireCost: 100
   - type: Tag
@@ -435,7 +551,7 @@
         path: /Audio/Weapons/emitter.ogg
         params:
           pitch: 2
-    - type: ProjectileBatteryAmmoProvider
+    - type: BatteryAmmoProvider
       proto: AntiParticlesProjectile
       fireCost: 500
     - type: Battery
@@ -465,7 +581,7 @@
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser3.ogg
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: XrayLaser
     fireCost: 100
   - type: MagazineVisuals
@@ -507,7 +623,7 @@
     projectileSpeed: 35 # any higher and this causes issues in lag
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/taser2.ogg
-  - type: ProjectileBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: BulletDisablerPractice
     fireCost: 62.5
   - type: Tag
@@ -536,7 +652,7 @@
     slots:
       - suitStorage
       - Belt
-  - type: ProjectileBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: BulletDisabler
     fireCost: 62.5
   - type: GuideHelp
@@ -574,7 +690,7 @@
       - FullAuto
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/taser2.ogg
-  - type: ProjectileBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: BulletDisablerSmg
     fireCost: 25
   - type: MagazineVisuals
@@ -614,7 +730,8 @@
     fireRate: 0.5
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/taser.ogg
-  - type: ProjectileBatteryAmmoProvider
+    projectileSpeed: 25
+  - type: BatteryAmmoProvider
     proto: BulletTaser
     fireCost: 200
   - type: MagazineVisuals
@@ -637,7 +754,7 @@
       path: /Audio/Effects/tesla_collapse.ogg # The wrath of god...
       params:
         volume: -6
-  - type: ProjectileBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: BulletTaserSuper
     fireCost: 200
 
@@ -660,7 +777,7 @@
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser_cannon.ogg
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: RedMediumLaser
     fireCost: 100
   - type: BatterySelfRecharger
@@ -675,6 +792,7 @@
     - HighRiskItem
     - Sidearm
     - WeaponAntiqueLaser
+    - LaserWeapon
   - type: StaticPrice
     price: 750
   - type: StealTarget
@@ -707,7 +825,7 @@
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser_cannon.ogg
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: RedMediumLaser
     fireCost: 100
   - type: BatterySelfRecharger
@@ -719,6 +837,10 @@
   - type: Appearance
   - type: StaticPrice
     price: 63
+  - type: Tag
+    tags:
+    - Sidearm
+    - LaserWeapon
 
 - type: entity
   name: C.H.I.M.P. handcannon
@@ -749,7 +871,7 @@
     fireRate: 1.5
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/taser2.ogg
-  - type: ProjectileBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: AnomalousParticleDeltaStrong
     fireCost: 100
   - type: BatteryWeaponFireModes
@@ -769,10 +891,9 @@
     price: 100
 
 - type: entity
-  name: experimental C.H.I.M.P. handcannon
   parent: [WeaponPistolCHIMP, BaseSyndicateContraband]
   id: WeaponPistolCHIMPUpgraded
-  description: This C.H.I.M.P. seems to have a greater punch than usual...
+  suffix: Syndicate
   components:
   - type: BatteryWeaponFireModes
     fireModes:
@@ -802,13 +923,17 @@
     fireRate: 1
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser_clown.ogg
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: RedMediumLaser
     fireCost: 100
   - type: BatterySelfRecharger
     autoRechargeRate: 40
   - type: StaticPrice
     price: 750
+  - type: Tag
+    tags:
+    - Sidearm
+    - LaserWeapon
 
 - type: entity
   name: energy shotgun
@@ -835,7 +960,7 @@
     fireRate: 2
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser_cannon.ogg
-  - type: ProjectileBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: BulletLaserSpreadNarrow
     fireCost: 80
   - type: BatteryWeaponFireModes
@@ -852,7 +977,11 @@
   - type: GunRequiresWield #remove when inaccuracy on spreads is fixed
   - type: Battery
     maxCharge: 480
-    startingCharge: 480
+  # SV Change Start
+  - type: BatterySelfRecharger
+    autoRechargeRate: 24
+    autoRechargePauseTime: 10
+  # SV Change End
 
 - type: entity
   name: energy magnum
@@ -885,7 +1014,7 @@
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser_cannon.ogg
-  - type: ProjectileBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: BulletLaserMagnum
     fireCost: 150
   - type: BatteryWeaponFireModes
@@ -930,7 +1059,7 @@
     fireRate: 1
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/taser2.ogg
-  - type: ProjectileBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: BoltTempgunCold
     fireCost: 100
   - type: BatteryWeaponFireModes
@@ -946,14 +1075,22 @@
     price: 100
 
 - type: entity
-  name: xenoborg laser gun
   parent: [WeaponAdvancedLaser, BaseXenoborgContraband]
-  id: XenoborgLaserGun
+  id: WeaponLaserGunXenoborg
+  name: xenoborg laser gun
 
 - type: entity
-  name: xenoborg heavy laser gun
-  parent: [WeaponAdvancedLaser, BaseXenoborgContraband]
-  id: XenoborgHeavyLaserGun
+  parent: [WeaponLaserCannon, BaseXenoborgContraband]
+  id: WeaponLaserCannonXenoborg
+  name: xenoborg laser cannon
   components:
-  - type: HitscanBatteryAmmoProvider
-    proto: RedHeavyLaser
+  - type: BatterySelfRecharger
+    autoRechargeRate: 30
+  # "remove" wield bonus and penalty so borgs can use it
+  - type: GunWieldBonus
+    minAngle: 0
+    maxAngle: 0
+  - type: Gun
+    fireRate: 2
+    minAngle: 1
+    maxAngle: 2
