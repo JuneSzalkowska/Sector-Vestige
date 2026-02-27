@@ -349,7 +349,7 @@
   suffix: Security
   components:
   - type: Sprite
-    sprite: Structures/Doors/Airlocks/Glass/security.rsi
+    sprite: _SV/Structures/Doors/Airlocks/Glass/sec.rsi
   - type: Wires
     layoutId: AirlockSecurity
 

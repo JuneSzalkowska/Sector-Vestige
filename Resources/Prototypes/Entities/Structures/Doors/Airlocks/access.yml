@@ -430,6 +430,8 @@
       board: [ DoorElectronicsArmory ]
   - type: Wires
     layoutId: AirlockArmory
+  - type: Sprite #Added by Sector-Vestige
+    sprite: _SV/Structures/Doors/Airlocks/Standard/warden.rsi  #Added by Sector-Vestige
 
 - type: entity
   parent: AirlockSecurity
@@ -839,9 +841,13 @@
   id: AirlockArmoryGlassLocked
   suffix: Armory, Locked
   components:
+  - type: Sprite #Added by Sector-Vestige
+    sprite: _SV/Structures/Doors/Airlocks/Standard/warden.rsi  #Added by Sector-Vestige
   - type: ContainerFill
     containers:
       board: [ DoorElectronicsArmory ]
+
+
 
 - type: entity
   parent: AirlockCommandGlassLocked
