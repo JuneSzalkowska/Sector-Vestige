@@ -61,20 +61,26 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
+using YamlDotNet.RepresentationModel;
 using Content.Server.Administration.Systems;
 using Content.Server.GameTicking;
-using Content.Server.Maps;
 using Content.Server.Shuttles.Components;
 using Content.Server.Shuttles.Systems;
 using Content.Server.Spawners.Components;
 using Content.Server.Station.Components;
 using Content.Shared.CCVar;
+using Content.Shared.Maps;
 using Content.Shared.Roles;
+using Content.Shared.Station.Components;
 using Robust.Shared.Configuration;
 using Robust.Shared.ContentPack;
+using Robust.Shared.EntitySerialization;
+using Robust.Shared.EntitySerialization.Systems;
 using Robust.Shared.GameObjects;
+using Robust.Shared.IoC;
 using Robust.Shared.Map;
 using Robust.Shared.Map.Components;
+using Robust.Shared.Map.Events;
 using Robust.Shared.Prototypes;
 using Content.Shared.Station.Components;
 using Robust.Shared.EntitySerialization;
@@ -160,9 +166,9 @@ namespace Content.IntegrationTests.Tests
             "Saltern",
             // "Reach", // Vestige: Derotated Map
             // "Oasis", // Vestige: Derotated Map
-            "Amber",
             "Plasma",
             "Elkridge",
+            "Snowball",
             // "Relic", // Vestige: Derotated Map
             "dm01-entryway",
             // "Exo", // Vestige: Derotated Map

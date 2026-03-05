@@ -1,4 +1,8 @@
+// SPDX-FileCopyrightText: 2026 Cosmatic Drift contributors
+// SPDX-FileCopyrightText: 2026 Sector Vestige contributors (modifications)
 // SPDX-FileCopyrightText: 2025 qu4drivium <aaronholiver@outlook.com>
+// SPDX-FileCopyrightText: 2026 ReboundQ3 <22770594+ReboundQ3@users.noreply.github.com>
+// SPDX-FileCopyrightText: 2026 OnyxTheBrave <131422822+OnyxTheBrave@users.noreply.github.com>
 //
 // SPDX-License-Identifier: MIT
 
@@ -11,6 +15,7 @@ using Content.Shared.Database;
 using Content.Shared._CD.CartridgeLoader.Cartridges;
 using Content.Shared._CD.NanoChat;
 using Content.Shared.NameIdentifier;
+using Content.Shared.Kitchen; //Sector Vestige
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 
